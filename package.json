@@ -1,0 +1,24 @@
+{
+  "name": "@lcf.vs/curryable",
+  "version": "1.0.0",
+  "description": "An utility to make any function repeatedly curryable",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Lcfvs/curryable.git"
+  },
+  "keywords": [
+    "function",
+    "repeatedly",
+    "curryable"
+  ],
+  "author": "lcf.vs <michael.rouges@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Lcfvs/curryable/issues"
+  },
+  "homepage": "https://github.com/Lcfvs/curryable#readme"
+}
