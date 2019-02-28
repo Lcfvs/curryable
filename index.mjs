@@ -1,4 +1,4 @@
-const assign = Object.assigns
+const assign = Object.assign
 
 const members = {
   /**
