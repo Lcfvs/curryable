@@ -32,3 +32,12 @@ export default function curryable (fn, ...args) {
 export function curry (fn, ...args) {
   return fn.bind(this, ...args)
 }
+
+/**
+ * Checks if `fn` has the provided `.curry()` method
+ * @param {Function} fn
+ * @return {boolean}
+ */
+export function isCurryable (fn) {
+  return fn && fn.curry === members.curry
+}
