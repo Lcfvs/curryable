@@ -97,4 +97,4 @@ const result = isCurryable(curryable(fn, ...args)) // true
 
 ## <a name="license">License</a>
 
-[MIT](https://github.com/Lcfvs/anticore/blob/master/licence.md)
+[MIT](https://github.com/Lcfvs/curryable/blob/master/licence.md)
